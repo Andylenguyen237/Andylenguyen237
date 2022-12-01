@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andy 
-- 👀 I’m interested in application design and AI
+- 👀 I’m interested in software and website development
 - 🌱 I’m currently studying at the University of Melbourne
-- 💞️ 2nd year Bachelor of Science - Computer and Software Systems
+- 💞️ 2nd year Bachelor of Science - majoring in Computer and Software Systems
 - 📫 lenguyenlinhdan02@gmail.com 
 
 <!---
