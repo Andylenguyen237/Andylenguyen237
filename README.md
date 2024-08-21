@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Andy 
-- 👀 I’m interested in software and application developement
-- 🌱 I’m currently studying at the University of Melbourne
-- 💞️ 3rd year Bachelor of Science - majoring in Computer and Software Systems
+- 👀 I’m interested in software/website developement and machine learning integration
+- 🌱 I'm a recent graduate from the University of Melbourne majoring in Computer and Software Systems
 - 📫 lenguyenlinhdan02@gmail.com 
-- https://www.linkedin.com/in/dan-le-nguyen-0620aa246/
+- [danle-linkedin](https://www.linkedin.com/in/nguyenlinhdanle23/)
 
 <!---
 Andylenguyen237/Andylenguyen237 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
