@@ -2,7 +2,7 @@
 - 👀 I’m interested in software/website developement and machine learning integration
 - 🌱 I'm a recent graduate from the University of Melbourne majoring in Computer and Software Systems
 - 📫 lenguyenlinhdan02@gmail.com 
-- [danle-linkedin](https://www.linkedin.com/in/nguyenlinhdanle23/)
+- Interested? Visit my linkedIn via [danle-linkedin](https://www.linkedin.com/in/nguyenlinhdanle23/)
 
 <!---
 Andylenguyen237/Andylenguyen237 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
